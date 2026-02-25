@@ -1,4 +1,3 @@
-# -Convolution---DFT
 # Digital Signal Processing Take-home Assignment
 
 ## Convolution and Discrete Fourier Transform (DFT)
